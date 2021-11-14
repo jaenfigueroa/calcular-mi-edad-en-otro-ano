@@ -114,7 +114,8 @@ article{
 
 }
 .mascota{
-    margin-right: 50px;
+    margin: 50px;
+    margin-top: 0px;
     float: right;
     width: 300px
 }
