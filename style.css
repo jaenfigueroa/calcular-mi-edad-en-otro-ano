@@ -78,6 +78,8 @@ footer img:hover{
     /* margin-bottom: 40px; */
     border-radius: 10px;
     /* float: left; */
+    display: inline-block;
+    margin: 20px 10px;
 }
 article{
     font-size: 2rem;
